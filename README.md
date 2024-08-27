@@ -1,6 +1,9 @@
-<h1>Luca Bulfon! <br/>Data Analyst, Programmer </h1>
+<h1>Hello, I'm Luca! 
+<br/>Data Analyst, Programmer </h1>
 
-<h2>👨‍💻 My Projects:</h2>
+<h2>I'm a former Division 1 Student-Athlete with a Master’s Degree in Business Analytics, an undergraduate in Computer Science and a minor in Business Administration. I am seeking an entry-level position as a Data Analyst. My Master Degree will allow me to work in the US for 3 years under OPT.</h2>
+
+<h3>👨‍💻 My Projects:</h3>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -27,7 +30,7 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 -->
 
-<h2> 🤳 Connect with me:</h2>
+<h3> 🤳 Connect with me:</h3>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
