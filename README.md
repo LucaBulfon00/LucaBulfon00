@@ -1,5 +1,5 @@
-<h1>Hello, I'm Luca! 
-<br/>Data Analyst, Programmer </h1>
+<h1>Hello, I'm Luca! </h1>
+<br/><h2>Data Analyst, Programmer</h2>
 
 <h2>I'm a former Division 1 Student-Athlete with a Master’s Degree in Business Analytics, an undergraduate in Computer Science and a minor in Business Administration. I am seeking an entry-level position as a Data Analyst. My Master Degree will allow me to work in the US for 3 years under OPT.</h2>
 
