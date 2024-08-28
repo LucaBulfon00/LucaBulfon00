@@ -16,10 +16,10 @@ I'm a former Division 1 Student-Athlete with a Master’s Degree in Business Ana
 
 [<img align="left" alt="LucaBulfon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LucaBulfon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LucaBulfon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="LucaBulfon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [instagram] -->
 
 [twitter]: https://x.com/luca_bulfon
-[instagram]: https://www.instagram.com/lucabulfon/
+<!--[instagram]: https://www.instagram.com/lucabulfon/ -->
 [linkedin]: https://www.linkedin.com/in/luca-bulfon-296372226/
 
 
