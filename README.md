@@ -6,7 +6,7 @@ I'm a former Division 1 Student-Athlete with a Master’s Degree in Business Ana
 <h3>👨‍💻 My Projects:</h3>
 
 - <b>Data Mining</b>
-  - [Will it rain in Australia (Using Data Mining to Predict Rainfall)](https://github.com/LucaBulfon00/DataMining-Australia)
+  - [Will it Rain in Australia? (Using Data Mining to Predict Rainfall)](https://github.com/LucaBulfon00/DataMining-Australia)
 - <b>Topic 2</b>
   - [Project 2]()
 - <b>Topic 2</b>
