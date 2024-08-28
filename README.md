@@ -5,11 +5,11 @@ I'm a former Division 1 Student-Athlete with a Master’s Degree in Business Ana
 
 <h3>👨‍💻 My Projects:</h3>
 
-- <b>Data Mining</b>
+- <b>Python</b>
   - [Will it Rain in Australia? (Using Data Mining to Predict Rainfall)](https://github.com/LucaBulfon00/DataMining-Australia)
-- <b>Topic 2</b>
+- <b>Excel</b>
   - [Project 2]()
-- <b>Topic 2</b>
+- <b>SQL</b>
   - [Project 2]()
 
 <!--<h2>📺 Popular YouTube Videos</h2>
