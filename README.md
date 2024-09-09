@@ -8,7 +8,7 @@ I'm a former Division 1 Student-Athlete with a Master’s Degree in Business Ana
 - <b>Python</b>
   - [Will it Rain in Australia? (Using Data Mining to Predict Rainfall)](https://github.com/LucaBulfon00/DataMining-Australia)
 - <b>Excel</b>
-  - [Perform Forest of Sales for a Clothing Company](https://github.com/LucaBulfon00/SalesForecast)
+  - [Forecasting Sales for a Clothing Company](https://github.com/LucaBulfon00/SalesForecast)
 - <b>SQL</b>
 
 <h3> 🤳 Connect with me:</h3>
