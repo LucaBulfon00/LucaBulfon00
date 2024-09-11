@@ -5,7 +5,7 @@ Originally from Udine, Italy, I moved to the United States to play Division I Co
 After that I moved to New York to pursue a Master’s Degree with a concentration in Business Analytics at Marist College. I am proficient in Excel, SQL, Python, Power BI, and Tableau. Feel free to explore my projects below!
 As a STEM graduate, I plan to take advantage of my OPT authorization to work for the next 3 years in the US.
 I am fully fluent in English and Italian, and I am currently based in Spartanburg, SC.
-Connect with me on [LinkedIn]([url](https://www.linkedin.com/in/luca-bulfon-296372226/)) or check out my [Resume](https://drive.google.com/file/d/1dN02men5NyrPna7eJFp5h_FWAvoayLnr/view) for information about my profile.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/luca-bulfon-296372226/) or check out my [Resume](https://drive.google.com/file/d/1dN02men5NyrPna7eJFp5h_FWAvoayLnr/view) for information about my profile.
 
 <h3>👨‍💻 My Projects:</h3>
 
